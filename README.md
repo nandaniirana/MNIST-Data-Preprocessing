@@ -2,13 +2,6 @@
 
 A Python-based project focused on loading, exploring, and preprocessing the MNIST handwritten digit dataset for machine learning workflows.
 
-## Run the Notebook in Google Colab
-
-Open the notebook in Google Colab to explore the dataset and execute the preprocessing workflow.
-
-[Open Notebook in Google Colab]
-[Open Notebook in Google Colab](https://colab.research.google.com/github/nandaniirana/MNIST-Data-Preprocessing/blob/main/MNIST_Data_Loading_and_Preprocessing%281%29.ipynb)
-
 ## Project Overview
 
 This project demonstrates fundamental image data preprocessing techniques using the MNIST handwritten digit dataset. It covers dataset loading, data inspection, quality checks, pixel normalization, flattening, and validation.
